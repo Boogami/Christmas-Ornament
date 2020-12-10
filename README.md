@@ -2,8 +2,8 @@
 
 Christmas Ornament 2020
 
-This is a Christmas ornament specifically done for 2020. A year to be .
+This is a Christmas ornament specifically done for 2020. A year to be remembered.
 
 Merry Christmas!! :santa: :christmas_tree: :gift:
 
-![](Christmas-Ornament/blob/main/Art/Final%20Image/PCBs.png)
+![Image](../blob/main/Art/Final%20Image/PCBs.png?raw=true)
